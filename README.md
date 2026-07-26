@@ -213,4 +213,4 @@ Released under the [MIT License](LICENSE).
 
 ## Contact
 
-**[Your Name]** — [your.email@institution.edu] — [Institution / Lab]
+**[Tanikella Aditya Kapil]** — [tanikella.kapil@gmail.com]
