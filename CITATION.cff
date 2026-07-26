@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the repository and the associated paper below."
+title: "5G-V2X-Communication: A MATLAB Simulation Framework for V2V and V2I Communication over 4G/5G Networks"
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+    affiliation: "[Your Institution]"
+version: 1.0.0
+date-released: "2026-07-26"
+license: MIT
+repository-code: "https://github.com/[your-username]/5G-V2X-Communication"
+preferred-citation:
+  type: article
+  title: "[Full IEEE Paper Title]"
+  authors:
+    - family-names: "[Your Last Name]"
+      given-names: "[Your First Name]"
+  journal: "[IEEE Conference/Journal Name]"
+  year: 2026
+  doi: "[10.xxxx/xxxxxxx]"

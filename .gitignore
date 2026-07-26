@@ -1,0 +1,25 @@
+# --- MATLAB autosave / temp files ---
+*.asv
+*.m~
+*.mex*
+*.autosave
+
+# --- Simulink / codegen (not used here, kept for future-proofing) ---
+slprj/
+*.slxc
+codegen/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# --- Generated results ---
+# Keep the Results/ folder itself (tracked via .gitkeep) but ignore
+# generated figures/data so the repo doesn't bloat with every local run.
+Results/*
+!Results/.gitkeep
+
+images/*
+!images/.gitkeep
